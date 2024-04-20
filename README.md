@@ -1,4 +1,4 @@
-let’s start with Reverse Engineering with a challenge called shifty as a first observation the challenge title “Sh1F77y” is written in leet
+let’s start our Reverse Engineering journey with a challenge called shifty as a first observation the challenge title “Sh1F77y” is written in leet
 
 language which mean shifty so it’s obvious that something related to cryptography let’s not rush.
 
